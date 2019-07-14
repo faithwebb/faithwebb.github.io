@@ -1,8 +1,8 @@
 ---
 title: Faith Webb's Blog
-layout: post
+layout: default
 ---
 
-# Coming Soon
+# Faith Webb's Blog
 
 Coming soon.
