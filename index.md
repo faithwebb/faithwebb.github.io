@@ -1,5 +1,4 @@
 ---
-title: Faith Webb's Blog
 layout: default
 ---
 

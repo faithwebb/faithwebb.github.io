@@ -1,3 +1,7 @@
+title: Faith Webb's Blog
+description: A place for my thoughts.
+github:
+  is_project_page: false
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -5,5 +9,4 @@ relative_links:
   collections: true
 include:
   - index.md
-  
 theme: jekyll-theme-modernist
