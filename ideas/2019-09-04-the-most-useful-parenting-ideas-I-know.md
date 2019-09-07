@@ -9,7 +9,7 @@ categories: parenting
 
 September 7, 2019
 
-##Idea #1
+## Idea #1
 
 Reuse plastic zip bags for poopy diapers to seal in the smell.
 This is great for both travel and home use and eliminates the need for a special diaper pail to keep the odor contained
@@ -17,7 +17,7 @@ This is great for both travel and home use and eliminates the need for a special
 I simply reuse the sandwich size or larger zip bags that previously contained snacks and other food.
 Waste not, want not. :)
 
-##Idea #2
+## Idea #2
 Involve your young children in helping with household chores.
 Not only is it setting up a good practice but it also might be the only way you'll get anything done around the house.
 It's a win-win situation:
@@ -35,7 +35,7 @@ He enjoys helping me do dishes so much that he doesn't want to stop even when th
 (he soaps and I rinse;
 sometimes I have to resoap, telling him the dish was extra oily)
 
-##Idea #3
+## Idea #3
 Say yes as much as possible.
 I try not to say no unless I have to do so.
 This sounds like I spoil my son, but actually, it just makes him more cooperative in general since he knows I don't say no unless there's a good reason.
