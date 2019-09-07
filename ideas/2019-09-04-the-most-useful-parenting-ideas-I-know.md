@@ -1,9 +1,13 @@
 ---
-layout: default
+layout: post
 title: Faith Webb's Blog - Some of the most useful parenting ideas I know.
+date: 2019-09-07
+categories: parenting
 ---
 
 # Some of the most useful parenting ideas I know.
+
+September 7, 2019
 
 ##Idea #1
 

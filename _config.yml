@@ -9,5 +9,5 @@ relative_links:
   collections: true
 include:
   - index.md
-  - ideas/2019-09-04.md
+  - ideas/*.md
 theme: jekyll-theme-modernist
