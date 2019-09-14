@@ -4,6 +4,9 @@ layout: default
 
 # Faith Webb's Blog
 
+[Some of the most useful parenting ideas I know](/ideas/) |
+[Sept. 4, 2019](/ideas/2019-09-04-the-most-useful-parenting-ideas-I-know.md)
+
 Hi, I'm Faith, a relatively new mom with a 2.5 year old son and a daughter on the way.
 My philosophy on raising children is to enjoy them while we still have them,
 to make learning fun and every day an adventure,

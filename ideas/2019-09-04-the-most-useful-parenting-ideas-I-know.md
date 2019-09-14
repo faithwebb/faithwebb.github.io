@@ -7,6 +7,8 @@ categories: parenting
 
 # Some of the most useful parenting ideas I know.
 
+[Home](/) | [Related](./)
+
 September 7, 2019
 
 ## Idea #1
